@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<h1 align="center">Projeto 01 - Lessons Learned</h1>
 
-You can use the [editor on GitHub](https://github.com/VitorMarceloSantos/Trybe-Projeto-01-Lessons-Learned/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<div>
+  Para a realização do projeto, foram utilizadas as seguintes tecnologias: HTML / CSS.
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##
 
-### Markdown
+<div>
+  <h3>Link do GitHub Page:</h3> https://vitormarcelosantos.github.io/Trybe-Projeto-01-Lessons-Learned/
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##
 
-```markdown
-Syntax highlighted code block
+<div>
+  <h3>Características do Projeto:</h3>
+  *Entender como funciona a estrutura (HTML) de uma página;<br/>
+  *Entender como o estilo (CSS) é aplicado à página;<br/>
+  *Construir páginas utilizando HTML e CSS;<br/>
+  *Realizar manutenções em páginas já existentes;<br/>
+  *Aplicar Layout e Box Model na prática;
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+##
 
-- Bulleted
-- List
+<div>
+  <h3>Nota Final: 100%</h3>
+</div>
 
-1. Numbered
-2. List
+##
+<h3>Galeria:</h3>
+<img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-01-Lessons-Learned/blob/main/Resultado-Projeto-01.png" title="Projeto - 01" alt="J" width="1000" height="1000"/><br/>
+<img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-01-Lessons-Learned/blob/main/Apresentacao-Projeto-01.png" title="Projeto - 01" alt="J"/>
 
-**Bold** and _Italic_ and `Code` text
+##
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VitorMarceloSantos/Trybe-Projeto-01-Lessons-Learned/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
