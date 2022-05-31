@@ -28,9 +28,10 @@
 </div>
 
 ##
+
 <h3>Galeria:</h3>
+<img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-01-Lessons-Learned/blob/main/Apresentacao-Projeto-01.png" title="Projeto - 01" alt="J"/></br>
 <img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-01-Lessons-Learned/blob/main/Resultado-Projeto-01.png" title="Projeto - 01" alt="J" width="1000" height="1000"/><br/>
-<img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-01-Lessons-Learned/blob/main/Apresentacao-Projeto-01.png" title="Projeto - 01" alt="J"/>
 
 ##
 
